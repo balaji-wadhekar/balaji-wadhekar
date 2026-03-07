@@ -1,18 +1,73 @@
-#Balaji Wadhekar 
+<h1 align="center">Hi 👋, I'm Balaji Wadhekar</h1>
+<h3 align="center">Data Analyst | Full-Stack Developer | Building Data-Driven Applications</h3>
 
+<p align="center">
+I build systems that transform raw data into meaningful insights and usable products.  
+My work combines <b>data analysis, backend engineering, and interactive visualization</b> to solve real-world problems.
+</p>
 
-I am an aspiring **Data Analyst and Developer** who loves finding the story hidden inside raw data. I build interactive tools and predictive models that solve real-world problems.
+---
 
-**What I do:**
-* 🔍 **Analyze & Visualize:** Cleaning, exploring, and interpreting datasets to extract meaningful trends.
-* ⚙️ **Build & Deploy:** Creating efficient backends and interactive frontends to present data beautifully.
-* 🧠 **Learn & Grow:** Currently expanding my knowledge in AI, Machine Learning, and advanced backend architecture.
+## 🚀 About Me
 
-**My Toolkit:**
-> `Python` | `Pandas` | `JavaScript` | `Node.js` | `React`
-### 📫 Let's Connect!
-(https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-babasaheb-wadhekar-0a0237354/)
-(https://img.shields.io/badge/Portfolio-Visit_Website-success?style=for-the-badge&logo=react)](http://localhost:5173/#about)
+- 🎓 Computer Science student focused on **Data Analytics and Software Development**
+- 📊 Experienced in **data cleaning, analysis, and visualization**
+- ⚙️ Building **full-stack applications and data tools**
+- 🧠 Currently learning **Machine Learning and advanced backend systems**
+- 💡 Interested in **AI systems, analytics platforms, and scalable applications**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+---
+
+## 🛠 Tech Stack
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats
+
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Data Analysis Dashboard
+Interactive dashboard for analyzing large datasets using Python and React.
+
+### 🤖 Machine Learning Predictor
+Predictive model using ML algorithms with data preprocessing and evaluation.
+
+### 🌐 Full-Stack Web Application
+A scalable web application with **React frontend and Node.js backend**.
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji_Wadhekar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-babasaheb-wadhekar-0a0237354/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-green?style=for-the-badge&logo=react)](http://localhost:5173)
+
+---
+
+⭐ *Always exploring new technologies and building data-driven solutions.*
