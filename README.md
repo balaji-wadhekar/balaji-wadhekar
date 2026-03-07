@@ -1,9 +1,18 @@
 # 💫 About Me:
-I’m currently working on<br><br>Front-end web applications using JavaScript (ES6+), React, and modern UI practices<br><br>Responsive and user-friendly interfaces with HTML5, CSS3<br><br>Real-world projects involving REST API integration and performance optimization<br><br>🤝 I’m looking to collaborate on<br><br>Front-end / Web Development projects<br><br>React-based applications and UI-focused projects<br><br>Open-source projects related to web performance and accessibility<br><br>🧠 I’m looking for help with<br><br>Advanced React patterns and scalable frontend architecture<br><br>Improving UI performance and accessibility standards<br><br>Writing clean, maintainable, production-ready frontend code<br><br>
+# Welcome to my GitHub! 📊
 
+I am an aspiring **Data Analyst and Developer** who loves finding the story hidden inside raw data. I build interactive tools and predictive models that solve real-world problems.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/balaji-wadhekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Balaji Babasaheb Wadhekar ) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Balaji Wadhekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wadhekarbalaji56@gmail.com) 
+**What I do:**
+* 🔍 **Analyze & Visualize:** Cleaning, exploring, and interpreting datasets to extract meaningful trends.
+* ⚙️ **Build & Deploy:** Creating efficient backends and interactive frontends to present data beautifully.
+* 🧠 **Learn & Grow:** Currently expanding my knowledge in AI, Machine Learning, and advanced backend architecture.
+
+**My Toolkit:**
+> `Python` | `Pandas` | `JavaScript` | `Node.js` | `React`
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/balaji-babasaheb-wadhekar-0a0237354)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-success?style=for-the-badge&logo=react)](http://localhost:5173/#about)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
