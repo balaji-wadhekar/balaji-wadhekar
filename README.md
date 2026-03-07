@@ -11,7 +11,7 @@ I am an aspiring **Data Analyst and Developer** who loves finding the story hidd
 **My Toolkit:**
 > `Python` | `Pandas` | `JavaScript` | `Node.js` | `React`
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/balaji-babasaheb-wadhekar-0a0237354)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-babasaheb-wadhekar-0a0237354/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-success?style=for-the-badge&logo=react)](http://localhost:5173/#about)
 
 # 💻 Tech Stack:
