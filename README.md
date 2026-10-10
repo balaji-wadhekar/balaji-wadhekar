@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Balaji Wadhekar</h1>
+<h1 align="center">Hi 👋I'm Balaji Wadhekar</h1>
 <h3 align="center">Data Analyst | Full-Stack Developer | Building Data-Driven Applications</h3>
 
 <p align="center">
